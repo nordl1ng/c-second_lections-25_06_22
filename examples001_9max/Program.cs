@@ -1,2 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int a1 = new Random().Next(1,999);
+Console.WriteLine (a1);
+int b1 = new Random().Next(1,999);
+Console.WriteLine (b1);
+int c1 = new Random().Next(1,999);
+Console.WriteLine (c1);
+int a2 = new Random().Next(1,999);
+Console.WriteLine (a2);
+int b2 = new Random().Next(1,999);
+Console.WriteLine (b2);
+int c2 = new Random().Next(1,999);
+Console.WriteLine (c2);
+int a3 = new Random().Next(1,999);
+Console.WriteLine (a3);
+int b3 = new Random().Next(1,999);
+Console.WriteLine (b3);
+int c3 = new Random().Next(1,999);
+Console.WriteLine (c3);

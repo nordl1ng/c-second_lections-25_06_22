@@ -1,0 +1,15 @@
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\obj\Debug\net6.0\examples001_9max.csproj.AssemblyReference.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\obj\Debug\net6.0\examples001_9max.GeneratedMSBuildEditorConfig.editorconfig
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\obj\Debug\net6.0\examples001_9max.AssemblyInfoInputs.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\obj\Debug\net6.0\examples001_9max.AssemblyInfo.cs
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\obj\Debug\net6.0\examples001_9max.csproj.CoreCompileInputs.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\bin\Debug\net6.0\examples001_9max.exe
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\bin\Debug\net6.0\examples001_9max.deps.json
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\bin\Debug\net6.0\examples001_9max.runtimeconfig.json
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\bin\Debug\net6.0\examples001_9max.dll
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\bin\Debug\net6.0\examples001_9max.pdb
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\obj\Debug\net6.0\examples001_9max.dll
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\obj\Debug\net6.0\refint\examples001_9max.dll
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\obj\Debug\net6.0\examples001_9max.pdb
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\obj\Debug\net6.0\examples001_9max.genruntimeconfig.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\examples001_9max\obj\Debug\net6.0\ref\examples001_9max.dll
