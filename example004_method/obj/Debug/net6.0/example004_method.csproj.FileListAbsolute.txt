@@ -1,0 +1,15 @@
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\obj\Debug\net6.0\example004_method.csproj.AssemblyReference.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\obj\Debug\net6.0\example004_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\obj\Debug\net6.0\example004_method.AssemblyInfoInputs.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\obj\Debug\net6.0\example004_method.AssemblyInfo.cs
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\obj\Debug\net6.0\example004_method.csproj.CoreCompileInputs.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\bin\Debug\net6.0\example004_method.exe
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\bin\Debug\net6.0\example004_method.deps.json
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\bin\Debug\net6.0\example004_method.runtimeconfig.json
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\bin\Debug\net6.0\example004_method.dll
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\bin\Debug\net6.0\example004_method.pdb
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\obj\Debug\net6.0\example004_method.dll
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\obj\Debug\net6.0\refint\example004_method.dll
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\obj\Debug\net6.0\example004_method.pdb
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\obj\Debug\net6.0\example004_method.genruntimeconfig.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\example004_method\obj\Debug\net6.0\ref\example004_method.dll
