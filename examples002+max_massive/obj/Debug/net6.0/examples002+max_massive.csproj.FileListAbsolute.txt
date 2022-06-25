@@ -1,0 +1,15 @@
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\obj\Debug\net6.0\examples002+max_massive.csproj.AssemblyReference.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\obj\Debug\net6.0\examples002+max_massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\obj\Debug\net6.0\examples002+max_massive.AssemblyInfoInputs.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\obj\Debug\net6.0\examples002+max_massive.AssemblyInfo.cs
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\obj\Debug\net6.0\examples002+max_massive.csproj.CoreCompileInputs.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\bin\Debug\net6.0\examples002+max_massive.exe
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\bin\Debug\net6.0\examples002+max_massive.deps.json
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\bin\Debug\net6.0\examples002+max_massive.runtimeconfig.json
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\bin\Debug\net6.0\examples002+max_massive.dll
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\bin\Debug\net6.0\examples002+max_massive.pdb
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\obj\Debug\net6.0\examples002+max_massive.dll
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\obj\Debug\net6.0\refint\examples002+max_massive.dll
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\obj\Debug\net6.0\examples002+max_massive.pdb
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\obj\Debug\net6.0\examples002+max_massive.genruntimeconfig.cache
+C:\work_project\IT\C#\c# second lections - functions and massive\examples002+max_massive\obj\Debug\net6.0\ref\examples002+max_massive.dll
