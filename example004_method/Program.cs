@@ -21,6 +21,28 @@ while (position < count)
 }
 
 
+int IndexOf(int[] collection, int find)
+{
+    int count = collection.Length;
+    int index = 0;
+    int position = -1;
+
+    while (index < count)
+    {
+        if (collection[index]==find)
+        {
+            position = index;
+            break;
+        }
+        index++;
+    
+    }
+return position;
+}
+
 int [] array = new int [10];
 Fillarray(array);
 PrintArray(array);
+Console.WriteLine();
+int pos = IndexOf(array,433);
+Console.WriteLine(pos);
